@@ -1,0 +1,12 @@
+AgeOfWonders;$MYGAMES//AoW3//Profiles//
+TheForest;$APPDATA//LocalLow//SKS//TheForest
+Skyrim;$MYGAMES//Skyrim//Saves
+Fallout4;$MYGAMES//Fallout4//Saves
+Anno2070;$USERFOLDER//Documents//Anno2070//Accounts
+AssasinesCreedOrigin;C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher
+CitiesSkyline;$APPDATA//Local//Colossal Order//Cities_Skylines//Saves
+DarkSouls2;$APPDATA//Roaming//DarkSoulsII
+DarkSouls3;APPDATA//Roaming//DarkSoulsIII
+Fallout New Vegas;$MYGAMES//Fallout4//Saves
+Final Fantasy 10;$USERFOLDER//Document//SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster//FINAL FANTASY X
+NinjaStorm3;C:\Program Files (x86)\Steam\userdata\59253995\234670
